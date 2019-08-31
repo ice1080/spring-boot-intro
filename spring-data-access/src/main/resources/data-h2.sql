@@ -1,0 +1,4 @@
+--insert into artist(id, name, genre) values(2, 'As I Lay Dying', 'Metalcore');
+--insert into album(id, name, artist_id) values(3, 'Awakened', 2);
+--insert into album(id, name, artist_id) values(4, 'The Powerless Rise', 2);
+--insert into album(id, name, artist_id) values(5, 'An Ocean Between Us', 2);
